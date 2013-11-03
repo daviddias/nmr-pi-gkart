@@ -1,0 +1,16 @@
+{
+  "name": "nmr-pi-gkart",
+  "version": "0.0.0",
+  "description": "",
+  "main": "gkart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node gkart.js"
+  },
+  "dependencies": {
+    "nmr-pi": "git+ssh://git@github.com:diasdavid/nmr-pi.git",
+    "mkdirp": "0.3.5"
+  },
+  "author": "David Dias <daviddias.p@gmail.com>",
+  "license": "MIT"
+}
